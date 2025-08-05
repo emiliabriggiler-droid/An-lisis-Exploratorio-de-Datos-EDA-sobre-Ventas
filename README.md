@@ -1,4 +1,4 @@
-# An-lisis-Exploratorio-de-Datos-EDA-sobre-Ventas
+# Analisis-Exploratorio-de-Datos-EDA-sobre-Ventas
 Analizar la dinámica de ventas a lo largo del tiempo con foco en la combinación producto-semana, entendiendo patrones, estacionalidades y posibles inconsistencias en los datos.
 
 Este proyecto se basa en un conjunto de datos transaccionales que registra ventas de productos alimenticios en el canal mayorista, realizadas a distintos puntos de venta (PDV) que operan como clientes del sistema. El propósito es aplicar técnicas de ciencia de datos para identificar patrones comerciales, optimizar decisiones estratégicas y generar valor a partir del análisis del comportamiento de compra.
